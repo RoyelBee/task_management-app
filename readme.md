@@ -3,7 +3,7 @@
 
 <p align="center">
     <h1> User can edit any task </h1>
-    <img src="https://imgur.com/0T1A1dA">
+   <blockquote class="imgur-embed-pub" lang="en" data-id="0T1A1dA"><a href="//imgur.com/0T1A1dA">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
