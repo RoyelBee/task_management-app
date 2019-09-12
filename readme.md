@@ -2,11 +2,9 @@
 <p align="center"><a href="https://ibb.co/CsLRzTY"><img src="https://i.ibb.co/Qj0yf1T/task-list.png" alt="task-list" border="0"></a><br /></p>
 
 <p align="center">
-    <h1> User can edit any task </h1>
-   <blockquote class="imgur-embed-pub" lang="en" data-id="0T1A1dA"><a href="//imgur.com/0T1A1dA">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+    <h1> User can view details of the task </h1>
+  <a href="https://ibb.co/02kS7mW"><img src="https://i.ibb.co/nmTvG6V/view-task.png" alt="view-task" border="0"></a>
+
 </p>
 
 ## About Laravel
